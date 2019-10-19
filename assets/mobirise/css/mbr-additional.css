@@ -687,7 +687,7 @@ blockquote {
   box-shadow: none !important;
 }
 .lazy-bg {
-  background-image: none !important;
+  /*background-image: none !important;*/
 }
 .lazy-placeholder:not(section) {
   display: block;
