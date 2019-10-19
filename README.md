@@ -1,1 +1,1 @@
-# mrineffable.github.io
+# MrIneffable.github.io
