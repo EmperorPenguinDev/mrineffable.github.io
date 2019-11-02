@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
-	'database' => 'mrineffable',
+	'hostname' => 'sql300.byethost.com',
+	'username' => 'b7_24682928',
+	'password' => 'hashfi007',
+	'database' => 'b7_24682928_mrineffable',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
